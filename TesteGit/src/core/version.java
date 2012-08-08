@@ -2,7 +2,7 @@ package core;
 
 public class version {
 	
-	private static final String VERSION = "2";
+	private static final String VERSION = "3";
 	private static final String DISTRIBUTION = "0";
 	private static final String RELEASE = "0";
 	private static final String BUILD = "0";
